@@ -1,0 +1,115 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+.main{
+    background-image: url(https://i.pinimg.com/564x/a7/69/a1/a769a10b6e79dc165782327450a07ab3.jpg);
+    height: 460px;
+    padding: 0px;
+    max-width: 100%;
+}
+.botones{
+    margin-left: 300px;
+    margin-top: -250px;
+}
+.perfil{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    margin-top: 370px;
+    margin-left: 80px;
+    padding: 0%;
+    max-width: 100%;
+}
+.unc{
+    margin-left: 1650px;
+    height: 220px;
+    padding: 0%;
+    position: static;
+    margin-top: 0px;
+    max-width: 100%;
+}
+.argentinaprograma{
+    margin-left: 1600px;
+    height: 150px;
+    margin-top: 0px;
+    padding: 0px;
+    position: static;
+    max-width: 100%;    
+}
+.infopersonal{
+    margin-top: -370px;
+    padding: 0px;
+    margin-left: 80px;
+    max-width: 100%;
+}
+.instagram{
+    height: 200px;
+}
+.wpp{
+    height: 200px;
+}
+.github{
+    height: 200px;
+    position: fixed;
+    margin-left: -80px;
+}
+.titulo{
+    padding: 0%;
+    color: black;
+    margin-left: 800px;
+}
+.etapas{
+    margin-left: 100px;
+}
+.pia{
+    height: 200px;
+    margin-left: 160px;
+}
+.etapa2{
+    margin-left: 810px;
+    margin-top: -245px;
+}
+.facultad{
+    height: 190px;
+    margin-left: 660px;
+    margin-top: 10px;
+}
+.etapa3{
+    margin-left: 1500px;
+    margin-top: -250px;
+}
+.curso{
+    height: 300px;
+    margin-left: 1300px;
+}
+.estudios{
+    height: 400px;
+    max-width: 100%;
+    border-radius: 40px;
+    border-width: 7px;
+border-style: solid;
+border-color: #1C6EA4;
+margin-top: 500px;
+}
+.edicion{
+    position: solid;
+    margin-top: -640px;
+    margin-left: 110px;
+}
+.botoneditar{
+margin-left: 300px;
+}
+.progress {
+    width: 100%;
+    max-width: 600px;
+  }
+  
+  .mat-card {
+    padding: 0 15px;
+    border: none;
+  }
+.skillstitulo{
+    margin-left: 750px;
+    margin-top: 150px;
+}
